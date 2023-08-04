@@ -18,4 +18,4 @@ def diapason(first_list, min, max):
             res.append(i)
     return res
 
-print(diapason (first_list,5,14))
+print(diapason (first_list,2, 5 ))
